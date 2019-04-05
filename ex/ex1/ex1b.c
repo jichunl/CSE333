@@ -16,7 +16,7 @@ int main(int argc, char** argv) {
     int32_t src[11] = {3, 2, -5, 7, 13, 4, 1, 7, 8, -8, 6};
     int32_t dest[11];
     uint32_t length = 11;
-    
+
     // sort and copy result to dest
     CopyAndSort(src, dest, length);
 
