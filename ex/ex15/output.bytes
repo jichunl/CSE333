@@ -1,0 +1,5 @@
+In addition, your code must:
+
+compile without errors or warnings on CSE Linux machines (lab workstations, attu, or CSE home VM)
+have no crashes, memory leaks, or memory errors on CSE linux machines
+follow the style guidelines we've been using in class, in
